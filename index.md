@@ -2,5 +2,8 @@
 
 Hier ist K.
 
+## Blumenkopie mit Tusche
+![K'Blumen](bilder/kblume.png)
+
 ## Vogel
-![vogel](bilder/vk.png)
+![K'Der heiße Brei](bilder/kbrei.png)
