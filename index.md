@@ -3,12 +3,14 @@
 Hier ist K.
 
 ## K'Achensee
-####09 HelmholtzS.
+'09 HelmholtzS.
+
 ![K'Achensee](bilder/kachensee.jpg)
 
 
 ## K'Landwasserviadukt
-####~04 BaumhaselR.
+~'04 BaumhaselR.
+
 ![K'Landwasserviadukt](bilder/klandwasser.jpg)
 
 ## K'Vogelsonne
