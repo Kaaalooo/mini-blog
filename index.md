@@ -34,6 +34,7 @@ Hier ist K.
 
 ## K'Pavillon
 '05 HegelAll.
+
 ![K'Pavillon](bilder/kpavillon.jpg)
 
 ## K'Blumenkopie
