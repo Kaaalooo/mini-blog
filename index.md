@@ -27,10 +27,45 @@ Hier ist K.
 ![K'Achensee](bilder/kachensee.jpg)
 
 
-## K'opie Cézanne
-'09 HelmholtzS.
+## K'opie I Cézanne
+'08 Ernst-Reuter-Pl.
 
 ![K'opie Cezanne](bilder/kcézanne.jpg)
+
+
+## K'opie II
+'08 Ernst-Reuter-Pl.
+
+![K'opie II](bilder/kbrücke2.jpg)
+
+## K'opie III
+'08 Ernst-Reuter-Pl.
+
+![K'opie III](bilder/kfluss2.jpg)
+
+
+## K'opie v.Gogh
+'08 Ernst-Reuter-Pl.
+
+![K'opie v.Gogh](bilder/kfluss.jpg)
+
+
+## K'Stein
+'08 Ernst-Reuter-Pl.
+
+![K'Stein](bilder/kstein.jpg)
+
+
+## K'apitell
+'07 Ernst-Reuter-Pl.
+
+![K'apitell](bilder/kapitell.jpg)
+
+
+## K'punktiert
+'07 Ernst-Reuter-Pl.
+
+![K'punktiert](bilder/kpunkte.jpg)
 
 
 ## K'Landwasserviadukt
