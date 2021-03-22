@@ -5,7 +5,7 @@ Hier ist K.
 ## K'arlo
 ~'15 SchiessstandG.
 
-
+![K'arlo](bilder/karlo.jpg)
 
 
 
