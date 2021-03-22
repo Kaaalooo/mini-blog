@@ -15,7 +15,20 @@ Hier ist K.
 
 ![K'arlo](bilder/karlo.jpg)
 
-# K'Brücke
+
+## K'Spatz
+'15 SchiessstandG.
+
+![K'Spatz](bilder/kspatz.jpg)
+
+
+## K'arlo
+'11 HelmholtzS.
+
+![K'atze](bilder/katze.jpg)
+
+
+## K'Brücke
 '10 HelmholtzS.
 
 ![K'Brücke](bilder/kbrücke.jpg)
@@ -38,6 +51,7 @@ Hier ist K.
 
 ![K'opie II](bilder/kbrücke2.jpg)
 
+
 ## K'opie III
 '08 Ernst-Reuter-Pl.
 
@@ -50,22 +64,46 @@ Hier ist K.
 ![K'opie v.Gogh](bilder/kfluss.jpg)
 
 
-## K'Stein
+## K'uh
 '08 Ernst-Reuter-Pl.
+
+![K'uh](bilder/kuh.jpg)
+
+
+## K'Stein
+'08 HelmholtzS.
 
 ![K'Stein](bilder/kstein.jpg)
 
 
 ## K'apitell
-'07 Ernst-Reuter-Pl.
+'08 HelmholtzS.
 
 ![K'apitell](bilder/kapitell.jpg)
 
 
+## K'Winter
+'07 BaumhaselR.
+
+![K'winter](bilder/kwinter.jpg)
+
+
 ## K'punktiert
-'07 Ernst-Reuter-Pl.
+'07 BaumhaselR.
 
 ![K'punktiert](bilder/kpunkte.jpg)
+
+
+## K'Architektur 
+'07 BaumhaselR.
+
+![K'Haus](bilder/khaus.jpg)
+
+
+## K'Architektur
+'07 BaumhaselR.
+
+![K'Licht](bilder/klicht.jpg)
 
 
 ## K'Landwasserviadukt
@@ -79,20 +117,30 @@ Hier ist K.
 
 ![K'Übung](bilder/kübung.jpg)
 
+
+## K'Fantasie
+'06 BaumhaselR.
+
+![K'fantasie](bilder/kfantasie.jpg)
+
+
 ## K'Vogelsonne
-~'03 HegelAll.
+~'05 HegelAll.
 
 ![K'Vogelsonne](bilder/kvogelrund.jpg)
+
 
 ## K'Pavillon
 '05 HegelAll.
 
 ![K'Pavillon](bilder/kpavillon.jpg)
 
+
 ## K'Blumenkopie
 ~'96 SchillerPl.
 
 ![K'Blumen](bilder/kblume.jpg)
+
 
 ## K'Brei
 ~'90 GrillparzerS.
