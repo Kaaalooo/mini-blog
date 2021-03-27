@@ -22,6 +22,12 @@ Hier ist K.
 ![K'Spatz](bilder/kspatz.jpg)
 
 
+## K'Giraffe
+'12 BaumhaselR.
+
+![K'giraffe](bilder/kgiraffe.jpg)
+
+
 ## K'arlo
 '11 HelmholtzS.
 
