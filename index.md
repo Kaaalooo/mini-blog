@@ -10,6 +10,12 @@ Hier ist K.
 ![K'irchturm](bilder/kirche.jpg)
 
 
+## K'opie Caféterrasse am Abend v.Gogh
+'18 GrazbachG.
+
+![K'opie Caféterrasse am Abend](bilder/vk.jpg)
+
+
 ## K'arlo
 '15 SchiessstandG.
 
