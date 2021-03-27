@@ -13,7 +13,7 @@ Hier ist K.
 ## K'opie Caféterrasse am Abend v.Gogh
 '18 GrazbachG.
 
-![K'opie Caféterrasse am Abend](bilder/vk.jpg)
+![K'opie Caféterrasse am Abend](bilder/k.jpg)
 
 
 ## K'arlo
