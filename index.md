@@ -7,7 +7,7 @@ Hier ist K.
 ## K'irchturm
 '20 Anna-Dengel-S.
 
-![K'irche](bilder/kirche.jpg)
+![K'irchturm](bilder/kirche.jpg)
 
 
 ## K'arlo
@@ -25,13 +25,13 @@ Hier ist K.
 ## K'Giraffe
 '12 BaumhaselR.
 
-![K'giraffe](bilder/kgiraffe.jpg)
+![K'Giraffe](bilder/kgiraffe.jpg)
 
 
 ## K'arlo
 '11 HelmholtzS.
 
-![K'atze](bilder/katze.jpg)
+![K'arlo](bilder/katze.jpg)
 
 
 ## K'Brücke
@@ -49,7 +49,7 @@ Hier ist K.
 ## K'opie I Cézanne
 '08 Ernst-Reuter-Pl.
 
-![K'opie Cezanne](bilder/kcézanne.jpg)
+![K'opie I Cézanne](bilder/kcézanne.jpg)
 
 
 ## K'opie II
@@ -91,25 +91,25 @@ Hier ist K.
 ## K'Winter
 '07 BaumhaselR.
 
-![K'winter](bilder/kwinter.jpg)
+![K'Winter](bilder/kwinter.jpg)
 
 
-## K'punktiert
+## K'Punktiert
 '07 BaumhaselR.
 
-![K'punktiert](bilder/kpunkte.jpg)
+![K'Punktiert](bilder/kpunkte.jpg)
 
 
-## K'Architektur 
+## K'Architektur II
 '07 BaumhaselR.
 
-![K'Haus](bilder/khaus.jpg)
+![K'Architektur](bilder/khaus.jpg)
 
 
-## K'Architektur
+## K'Architektur I
 '07 BaumhaselR.
 
-![K'Licht](bilder/klicht.jpg)
+![K'Architektur](bilder/klicht.jpg)
 
 
 ## K'Landwasserviadukt
@@ -127,7 +127,7 @@ Hier ist K.
 ## K'Fantasie
 '06 BaumhaselR.
 
-![K'fantasie](bilder/kfantasie.jpg)
+![K'Fantasie](bilder/kfantasie.jpg)
 
 
 ## K'Vogelsonne
@@ -145,10 +145,10 @@ Hier ist K.
 ## K'Blumenkopie
 ~'96 SchillerPl.
 
-![K'Blumen](bilder/kblume.jpg)
+![K'Blumenkopie](bilder/kblume.jpg)
 
 
 ## K'Brei
 ~'90 GrillparzerS.
 
-![K'Der heiße Brei](bilder/kbrei.jpg)
+![K'Brei](bilder/kbrei.jpg)
