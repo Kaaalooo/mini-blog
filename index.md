@@ -3,6 +3,11 @@
 Hier ist K.
 
 
+## K'Mandala
+'21 Anna-Dengel-S.
+
+![K'Mandala](bilder/kmandala.jpg)
+
 
 ## K'irchturm
 '20 Anna-Dengel-S.
@@ -82,7 +87,19 @@ Hier ist K.
 ![K'uh](bilder/kuh.jpg)
 
 
-## K'Stein
+## K'Stein III
+'08 HelmholtzS.
+
+![K'Stein](bilder/kstein3.jpg)
+
+
+## K'Stein II
+'08 HelmholtzS.
+
+![K'Stein II](bilder/kstein2.jpg)
+
+
+## K'Stein I
 '08 HelmholtzS.
 
 ![K'Stein](bilder/kstein.jpg)
@@ -95,27 +112,44 @@ Hier ist K.
 
 
 ## K'Winter
-'07 BaumhaselR.
+'08 BaumhaselR.
 
 ![K'Winter](bilder/kwinter.jpg)
 
 
 ## K'Punktiert
-'07 BaumhaselR.
+'08 BaumhaselR.
 
 ![K'Punktiert](bilder/kpunkte.jpg)
 
 
-## K'Architektur II
-'07 BaumhaselR.
+## K'Architektur III
+'08 BaumhaselR.
 
-![K'Architektur](bilder/khaus.jpg)
+![K'Architektur III](bilder/khaus.jpg)
+
+
+## K'Architektur II
+'08 BaumhaselR.
+
+![K'Architektur II](bilder/kdorf.jpg)
 
 
 ## K'Architektur I
-'07 BaumhaselR.
+'08 BaumhaselR.
 
 ![K'Architektur](bilder/klicht.jpg)
+
+## K'ürbis
+'08 Ernst-Reuter-Pl.
+
+![K'ürbis](bilder/kürbis.jpg)
+
+
+## K'affeeblätter
+'08 Ernst-Reuter-Pl.
+
+![K'affeeblätter](bilder/kaffeeblätter.jpg)
 
 
 ## K'Landwasserviadukt
