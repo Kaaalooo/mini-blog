@@ -57,10 +57,10 @@ Hier ist K.
 ![K'Achensee](bilder/kachensee.jpg)
 
 
-## K'opie I Cézanne
+## K'opie III Cézanne
 '08 Ernst-Reuter-Pl.
 
-![K'opie I Cézanne](bilder/kcézanne.jpg)
+![K'opie III Cézanne](bilder/kcézanne.jpg)
 
 
 ## K'opie II
@@ -69,10 +69,10 @@ Hier ist K.
 ![K'opie II](bilder/kbrücke2.jpg)
 
 
-## K'opie III
+## K'opie I
 '08 Ernst-Reuter-Pl.
 
-![K'opie III](bilder/kfluss2.jpg)
+![K'opie I](bilder/kfluss2.jpg)
 
 
 ## K'opie v.Gogh
