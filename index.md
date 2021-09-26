@@ -161,7 +161,7 @@ Hier ist K.
 ## K'Übung Perspektive
 '07 Ernst-Reuter-Pl.
 
-![K'Übung Perspektive](bilder/kübung perspektive.jpg)
+![K'Übung Perspektive](bilder/kübungperspektive.jpg)
 
 
 ## K'Übung
