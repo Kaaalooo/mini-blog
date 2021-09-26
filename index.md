@@ -164,7 +164,7 @@ Hier ist K.
 ![K'Übung Perspektive](bilder/kübungperspektive.jpg)
 
 
-## K'Übung
+## K'Übung Aquarell
 '07 Ernst-Reuter-Pl.
 
 ![K'Übung](bilder/kübung.jpg)
