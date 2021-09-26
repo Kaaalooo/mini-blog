@@ -33,7 +33,7 @@ Hier ist K.
 ![K'Spatz](bilder/kspatz.jpg)
 
 
-## K'Giraffe
+## K'Giraffen
 '12 BaumhaselR.
 
 ![K'Giraffe](bilder/kgiraffe.jpg)
@@ -140,7 +140,7 @@ Hier ist K.
 
 ![K'Architektur](bilder/klicht.jpg)
 
-## K'ürbis
+## K'affeestillleben
 '08 Ernst-Reuter-Pl.
 
 ![K'ürbis](bilder/kürbis.jpg)
@@ -180,6 +180,18 @@ Hier ist K.
 '04 HegelAll.
 
 ![K'Pavillon](bilder/kpavillon.jpg)
+
+
+## K'Schuh
+'03 BaumhaselR.
+
+![K'Schuh](bilder/kschuh.jpg)
+
+
+## K'Elefanten
+'03 BaumhaselR.
+
+![K'Elefant](bilder/kelefant.jpg)
 
 
 ## K'Fantasie
