@@ -164,22 +164,28 @@ Hier ist K.
 ![K'Übung](bilder/kübung.jpg)
 
 
-## K'Fantasie
-'06 BaumhaselR.
-
-![K'Fantasie](bilder/kfantasie.jpg)
-
-
 ## K'Vogelsonne
 ~'05 HegelAll.
 
 ![K'Vogelsonne](bilder/kvogelrund.jpg)
 
 
+## K'Fjord
+'04 HegelAll.
+
+![K'Fjord](bilder/kfjord.jpg)
+
+
 ## K'Pavillon
-'05 HegelAll.
+'04 HegelAll.
 
 ![K'Pavillon](bilder/kpavillon.jpg)
+
+
+## K'Fantasie
+'03 BaumhaselR.
+
+![K'Fantasie](bilder/kfantasie.jpg)
 
 
 ## K'Blumenkopie
