@@ -170,16 +170,16 @@ Hier ist K.
 ![K'Vogelsonne](bilder/kvogelrund.jpg)
 
 
+## K'Pavillon
+'05 HegelAll.
+
+![K'Pavillon](bilder/kpavillon.jpg)
+
+
 ## K'Fjord
 '04 HegelAll.
 
 ![K'Fjord](bilder/kfjord.jpg)
-
-
-## K'Pavillon
-'04 HegelAll.
-
-![K'Pavillon](bilder/kpavillon.jpg)
 
 
 ## K'Schuh
