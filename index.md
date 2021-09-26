@@ -158,6 +158,12 @@ Hier ist K.
 ![K'Landwasserviadukt](bilder/klandwasser.jpg)
 
 
+## K'Übung Perspektive
+'07 Ernst-Reuter-Pl.
+
+![K'Übung Perspektive](bilder/kübung perspektive.jpg)
+
+
 ## K'Übung
 '07 Ernst-Reuter-Pl.
 
