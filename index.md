@@ -177,7 +177,7 @@ Hier ist K.
 
 
 ## K'Pavillon
-'04 HegelAll.
+'03 HegelAll.
 
 ![K'Pavillon](bilder/kpavillon.jpg)
 
