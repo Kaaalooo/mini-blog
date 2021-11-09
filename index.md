@@ -210,9 +210,3 @@ Hier ist K.
 ~'96 SchillerPl.
 
 ![K'Blumenkopie](bilder/kblume.jpg)
-
-
-## K'Brei
-~'90 GrillparzerS.
-
-![K'Brei](bilder/kbrei.jpg)
