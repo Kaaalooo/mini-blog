@@ -3,6 +3,12 @@
 Hier ist K.
 
 
+## K'Gelbe Kuh
+
+
+![K'Kuh](bilder/20230618_142118~4.jpg)
+
+
 ## K'Mandala
 '21 Anna-Dengel-S.
 
